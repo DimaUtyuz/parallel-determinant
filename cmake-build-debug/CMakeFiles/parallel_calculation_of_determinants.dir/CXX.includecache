@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dmitrii/Desktop/MyGit/parallel-calculation-of-determinants/main.cpp
+iostream
+-
+vector
+-
+ctime
+-
+fstream
+-
+iomanip
+-
+omp.h
+/cygdrive/c/Users/Dmitrii/Desktop/MyGit/parallel-calculation-of-determinants/omp.h
+

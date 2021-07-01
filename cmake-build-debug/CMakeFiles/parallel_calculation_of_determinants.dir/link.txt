@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/parallel_calculation_of_determinants.dir/main.cpp.o  -o parallel_calculation_of_determinants.exe -Wl,--out-implib,libparallel_calculation_of_determinants.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
